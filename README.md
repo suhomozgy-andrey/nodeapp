@@ -1,3 +1,3 @@
-# Artlambriken
+# Simple Nodejs application
 
-New markup development for artlambriken site 
+Created for fast markup development and deploy it to heroku server.
